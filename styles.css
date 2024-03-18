@@ -1,0 +1,194 @@
+.md{
+    background-color: aquamarine;
+    height: 500px;
+}
+h1{
+    border: 9px solid red;
+    background-color: orange;
+    color:black;
+    padding-left: 290px;
+    padding-top:20px;
+    
+}
+.cd1{
+    border: 2px solid red;
+    height: 40px;
+    width:600px ;
+    background-color: orange;
+}
+
+.cd2{
+border: 2px solid palevioletred;
+height: 25px;
+width: 70px;
+padding: 10px;
+background-color: purple;
+border-radius: 10px;
+text-align: center;
+margin-left: 10px;
+ margin-top: 50px;
+}
+
+
+
+.cd3{
+    border: 2px solid palevioletred;
+    height: 25px;
+    width: 70px;
+    padding: 10px;
+    background-color: yellow;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+.cd4{
+    border: 2px solid palevioletred;
+    height: 25px;
+    width: 70px;
+    padding: 10px;
+    background-color: red;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 240px;
+    margin-top: 50px;
+}
+
+.cd5{
+    border: 2px solid palevioletred;
+    height: 25px;
+    width: 70px;
+    padding: 10px;
+    background-color: silver;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 340px;
+    margin-top: 50px;
+}
+  
+
+
+.cd6{
+
+margin-left: 40px;
+font-size:x-large;
+margin-top: -370px;
+
+}
+
+.cd7{
+
+    margin-left: 150px;
+    font-size:x-large;
+    margin-top: 65px;
+    
+    }
+    .cd8{
+
+        margin-left: 265px;
+        font-size:x-large;
+        margin-top: 65px;
+        
+        }
+        .cd9{
+
+            margin-left: 365px;
+            font-size:x-large;
+            margin-top: 67px;
+            
+            }
+    
+/* ------------------- */
+.parent{
+    width: 500px;
+    margin-top: 100px;
+    margin-left: 100px;
+    
+}
+.parent,.child1,.child2,.child3,.child4,.child5{
+    border-radius: 50%;
+}
+.child1{
+    width: 400px;
+    padding: 50px;
+    background-color: black;
+}
+.child2{
+    width: 300px;
+    padding: 50px;
+    background-color:red;
+}
+.child3{
+    width: 200px;
+    padding: 50px;
+    background-color: blue;
+}
+.child4{
+    width: 100px;
+    padding: 50px;
+    background-color: yellow;
+}
+.child5{
+    padding: 50px;
+    background-color: red;
+}
+
+.main {
+    padding-left: 350px;
+    background-color: aqua;
+    width: 1000px;
+}
+
+.div1 {
+    background-color: black;
+    height: 250px;
+    width: 130px;
+    margin-left: 300px;
+    margin-top: 300px;
+    border-radius: 50px;
+}
+
+.div2 {
+    background-color: orangered;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    margin-left: 340px;
+    margin-top: -220px;
+}
+
+.div3 {
+    background-color: darkgreen;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    margin-left: 340px;
+    margin-top: 10px;
+}
+
+.div4 {
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    margin-left: 340px;
+    margin-top: 10px;
+}
+
+.div5 {
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    margin-left: 340px;
+    margin-top: 30px;
+    border-radius: 20px;
+
+}
+
+.div6 {
+    background-color: black;
+    height: 300px;
+    width: 20px;
+    margin-left: 355px;
+
+}
